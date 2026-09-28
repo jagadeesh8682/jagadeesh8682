@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Jagadeesh S
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%9A%80;Cross-Platform+Expert+%F0%9F%93%B1;4%2B+Years+Experience+%E2%9A%A1;350%2B+Apps+Published+%F0%9F%8F%86;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%9A%80;Cross-Platform+Expert+%F0%9F%93%B1;5%2B+Years+Experience+%E2%9A%A1;350%2B+Apps+Published+%F0%9F%8F%86;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 ---
