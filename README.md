@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Flutter Developer** with **4+ years of experience** building stunning cross-platform applications for iOS, Android, and Web. I specialize in creating scalable, high-performance mobile solutions that deliver exceptional user experiences.
+I'm a passionate **Flutter Developer** with **5.3+ years of experience** building stunning cross-platform applications for iOS, Android, and Web. I specialize in creating scalable, high-performance mobile solutions that deliver exceptional user experiences.
 
 ### 🎯 What I Do
 - 📱 **Cross-Platform Development** - Flutter apps for iOS, Android, Web, Windows & macOS
